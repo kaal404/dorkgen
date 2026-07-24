@@ -23,13 +23,13 @@ Writing good dorks by hand doesn't scale: it's easy to miss an operator combinat
 
 ## Features
 
-- ⚡ **Interactive TUI** — Rich-powered menu with a guided wizard, live query builder, project save/load, and export center
-- 🖥️ **Scriptable CLI** — `dorkgen generate --domain ... --profile ...` for automation/CI
-- 🎯 **13 profiles** — bug bounty, red/blue team, enterprise, SaaS, healthcare, banking, government, cloud, startup, education, OSINT
-- 📚 **18 categories, 34 keyword packs (~200 keywords), 53 templates** — cloud creds, secrets, auth, APIs, source code, DevOps, backups, databases, and more
-- 📊 **Risk/priority/confidence scoring** on every query, with a plain-English reason
-- 📤 **5 export formats** — TXT, Markdown, CSV, JSON, HTML
-- 🧹 **Automatic deduplication** and input validation on every request
+- **Interactive TUI** — Rich-powered menu with a guided wizard, live query builder, project save/load, and export center
+-  **Scriptable CLI** — `dorkgen generate --domain ... --profile ...` for automation/CI
+-  **13 profiles** — bug bounty, red/blue team, enterprise, SaaS, healthcare, banking, government, cloud, startup, education, OSINT
+-  **18 categories, 34 keyword packs (~200 keywords), 53 templates** — cloud creds, secrets, auth, APIs, source code, DevOps, backups, databases, and more
+-  **Risk/priority/confidence scoring** on every query, with a plain-English reason
+-  **5 export formats** — TXT, Markdown, CSV, JSON, HTML
+-  **Automatic deduplication** and input validation on every request
 
 ---
 
