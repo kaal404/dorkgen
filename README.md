@@ -1,3 +1,5 @@
+<img width="970" height="771" alt="Screenshot 2026-07-24 111701" src="https://github.com/user-attachments/assets/750eef08-886c-4ab0-94cf-27776272a895" />
+
 # DorkGEN
 
 **The Ultimate Google Dork Intelligence Framework** — for bug bounty, red
