@@ -73,17 +73,6 @@ python -m dorkgen generate --domain example.com --profile red_team --export json
 | `--export` | `txt` / `md` / `csv` / `json` / `html` | prints to stdout |
 | `--out` | Output file path | stdout |
 
-## Development
-
-```bash
-pip install -e ".[dev]"
-pytest
-```
-
-31 tests cover generation, scoring, validation, exports, and profile integrity.
-
----
-
 ## Responsible Use
 
 For **authorized testing only** — your own assets, in-scope bug bounty programs, or signed pentest engagements. DorkGEN doesn't access or exploit anything itself; running the generated queries responsibly, and disclosing anything sensitive you find, is on you.
