@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # DorkGEN
 
 **The Ultimate Google Dork Intelligence Framework** — for bug bounty, red
@@ -174,4 +173,3 @@ Issues and PRs welcome. Please:
 MIT
 =======
 # Dorkgen
->>>>>>> f2073d67e6a6559188707fdd544cfdab2439b3bb
